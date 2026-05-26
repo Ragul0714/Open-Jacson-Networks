@@ -83,6 +83,9 @@ print("----------------------------------------------------------------------")
 <img width="1061" height="388" alt="image" src="https://github.com/user-attachments/assets/3d84e591-90c2-480d-a2da-26f1b984efe2" />
 
 
+
+
 ## Result
+
 
 Thus, the performance measures of the Series Queues with Infinite Capacity – Open Jackson Network were determined successfully using Python. The average number of materials in each system and conveyor, as well as the average waiting time in each conveyor, were calculated successfully for the given Open Jackson Network model.
